@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-size: 20px;
+}
+image {
+    height: 250px;
+    width: 80%;
+}
+img {
+    height: 250px;
+    width: 80%;
+}
+
+
+ul {
+    text-align: left;
+    display: inline-block;
+}
+div {
+ display: inline-block;
+}
+table {
+    text-align: left;
+ }
+#tituloMain,#tituloOferta {
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
