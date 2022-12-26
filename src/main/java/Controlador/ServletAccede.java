@@ -23,6 +23,7 @@ public class ServletAccede extends HttpServlet {
             gestor = new GestorViajes();
             contexto.setAttribute("gestor", gestor);
         }
+
         // Obtengo el parámetro del formulario
         request.getSession(true);
         String codCli = request.getParameter("codCli");
